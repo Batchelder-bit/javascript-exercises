@@ -1,0 +1,6 @@
+psuedo code:
+Take in word.
+assign the word to a variable
+Remove any blank character (spaces) and or special characters.
+Flip the variable and comapre the original variable to the flipped one.
+If the flipped variable is the same as the original return true else false.
